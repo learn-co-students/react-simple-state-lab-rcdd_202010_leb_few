@@ -5,8 +5,8 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2021-01-04T14:35:23.250Z",
-    "end": "2021-01-04T14:35:23.269Z",
+    "start": "2021-01-04T15:04:07.972Z",
+    "end": "2021-01-04T15:04:07.991Z",
     "duration": 19
   },
   "tests": [
@@ -48,7 +48,7 @@
     {
       "title": "state.color is initially set to the 'value' prop passed from Matrix",
       "fullTitle": "<Cell /> state.color is initially set to the 'value' prop passed from Matrix",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "state.color is initially set to the 'value' prop passed from Matrix",
       "fullTitle": "<Cell /> state.color is initially set to the 'value' prop passed from Matrix",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
